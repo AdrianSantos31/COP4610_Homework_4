@@ -32,7 +32,7 @@ public class Homework4 {
 		//Strings
 		String databaseName = "PlayerDB_Assign4";
 		String username = "root";
-		String password = "adriansantos";
+		String password = "password";
 
 		//Shortcuts
 		String createDatabase = "CREATE DATABASE ";
